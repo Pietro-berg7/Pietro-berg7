@@ -1,7 +1,7 @@
 ## Olá! Eu sou Pietro Bergamaschi
 
-- 🔭 Estou atualmente estudando Desenvolvimento Web Full Stack na Trybe
-- 🌱 Estou no módulo de Front-End aprendendo ReactJS
+- 🔭 Estudante de Desenvolvimento Web Full Stack
+- 🌱 Atualmente aprendendo Node.js
 
 <div align="center">
   <a href="https://github.com/Pietro-berg7">
