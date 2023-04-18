@@ -13,7 +13,7 @@
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/344/bash.png" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" background-color="white" />
+  <img align="center" height="30" width="30" src="https://camo.githubusercontent.com/7df0b771c958e1037aaf92e60c9491f7d01628c31d70f822aebe153a2daf2c8a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d74696c652e737667" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
