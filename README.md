@@ -1,32 +1,38 @@
 ## Olá! Eu sou Pietro Bergamaschi
 
-- 🔭 Desenvolvedor Web Full Stack
-- 🌱 Atualmente estudando C# e .NET
+<br>
+
+Um entusiasta da programação com 23 anos de idade, dedicado a criar soluções inovadoras por meio do código. No GitHub, compartilho meus projetos desafiadores e bem-sucedidos, destacando minha experiência e habilidades no desenvolvimento de software.
+
+Possuo conhecimento sólido nas linguagens C# e JavaScript, com conhecimento avançado em tecnologias como .NET, Entity Framework, ReactJS, Node.js. Sou versado tanto no desenvolvimento Front-End quanto Back-End, oferecendo soluções completas e eficientes.
+
+Tenho experiência no uso do Docker para orquestração de contêineres, garantindo a escalabilidade e a confiabilidade dos sistemas. Além disso, possuo conhecimento em bancos de dados SQL Server, MongoDB e MySQL.
+
+Estou sempre em busca de colaborações estimulantes e oportunidades para contribuir com projetos inovadores. Se você está interessado em parcerias de desenvolvimento ou gostaria de discutir ideias relacionadas à programação, fique à vontade para entrar em contato.
+
+<br>
+  
+<div align="left">
+
+  ``` js
+const languages = ["C#", "JavaScript", "TypeScript"];
+  
+const technologies =
+{
+      backend: [".NET", "Entity Framework", "Node.js", "Docker"],
+      frontend: ["ReactJS", "Redux", "CSS", "Styled Components"],
+      databases: ["SQL Server", "MongoDB", "MySQL"],
+      testing: ["Jest"]
+};
+
+  ```
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/Pietro-berg7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro-berg7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-berg7&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" height="30" width="30" src="https://img.icons8.com/color/344/bash.png" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" height="30" width="30" src="https://camo.githubusercontent.com/7df0b771c958e1037aaf92e60c9491f7d01628c31d70f822aebe153a2daf2c8a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d74696c652e737667" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" height="30" width="28" src="https://www.seekpng.com/png/full/525-5256723_docker-compose-logo.png" />
-  <img align="center" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
   
 <div align="center"><br>
