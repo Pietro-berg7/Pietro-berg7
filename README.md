@@ -4,7 +4,7 @@
 
 Um entusiasta da programação com 23 anos de idade, dedicado a criar soluções inovadoras por meio do código. No GitHub, compartilho meus projetos desafiadores e bem-sucedidos, destacando minha experiência e habilidades no desenvolvimento de software.
 
-Possuo conhecimento sólido nas linguagens C# e JavaScript, com conhecimento avançado em tecnologias como .NET, Entity Framework, ReactJS, Node.js. Sou versado tanto no desenvolvimento Front-End quanto Back-End, oferecendo soluções completas e eficientes.
+Possuo conhecimento sólido nas linguagens C# e JavaScript, com conhecimento avançado em tecnologias como .NET, Entity Framework, Angular, ReactJS, Node.js. Sou versado tanto no desenvolvimento Front-End quanto Back-End, oferecendo soluções completas e eficientes.
 
 Tenho experiência no uso do Docker para orquestração de contêineres, garantindo a escalabilidade e a confiabilidade dos sistemas. Além disso, possuo conhecimento em bancos de dados SQL Server, MongoDB e MySQL.
 
@@ -20,7 +20,7 @@ const languages = ["C#", "JavaScript", "TypeScript"];
 const technologies =
 {
       backend: [".NET", "Entity Framework", "Node.js", "Docker"],
-      frontend: ["ReactJS", "Redux", "CSS", "Styled Components"],
+      frontend: ["Angular", "ReactJS", "Redux", "CSS", "Styled Components"],
       databases: ["SQL Server", "MongoDB", "MySQL"],
       testing: ["Jest"]
 };
