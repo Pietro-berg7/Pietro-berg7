@@ -2,7 +2,7 @@
 
 <br>
 
-Um entusiasta da programação com 23 anos de idade, dedicado a criar soluções inovadoras por meio do código. No GitHub, compartilho meus projetos desafiadores e bem-sucedidos, destacando minha experiência e habilidades no desenvolvimento de software.
+Um entusiasta da programação com 24 anos de idade, dedicado a criar soluções inovadoras por meio do código. No GitHub, compartilho meus projetos desafiadores e bem-sucedidos, destacando minha experiência e habilidades no desenvolvimento de software.
 
 Possuo conhecimento sólido nas linguagens C# e JavaScript, com conhecimento avançado em tecnologias como .NET, Entity Framework, Angular, ReactJS, Node.js. Sou versado tanto no desenvolvimento Front-End quanto Back-End, oferecendo soluções completas e eficientes.
 
